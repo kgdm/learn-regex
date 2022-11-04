@@ -586,7 +586,7 @@ possible. We can use `?` to match in a lazy way, which means the match should be
 [Test the regular expression](https://regex101.com/r/AyAdgJ/1)
 
 <pre>
-"/(.*?at)/" => <a href="#learn-regex"><strong>The fat</strong></a> cat sat on the mat. </pre>
+"/(.*?at)/" => <a href="#learn-regex"><strong>The sat</strong></a> cat sat on the mat. </pre>
 
 
 [Test the regular expression](https://regex101.com/r/AyAdgJ/2)
